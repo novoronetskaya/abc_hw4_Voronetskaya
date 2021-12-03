@@ -1,0 +1,38 @@
+3
+1940 230 JapaneseSamurai
+2
+2003 1 TheFixies
+2
+1999 2 NuPogodi
+2
+1945 1 Prostocvashino
+2
+1999 3 Maugli
+3
+1987 200 RussianRevolution
+2
+1956 3 Aladdin
+1
+1899 Portal LindseyFox
+3
+1990 123 WorldWarSecond
+3
+1940 230 FrenchKings
+3
+1943 400 ChineseEmperors
+2
+2003 1 Avatar
+2
+1999 2 Monsters
+2
+1945 1 KungFuPanda
+2
+1999 3 HotelTransylvania
+3
+1987 200 Kovalevskaya
+2
+1956 3 FrozenHeart
+1
+1899 FalloutNewVegas RichardNewman
+3
+1990 123 BiographyOfSergeiRakhmaninov
